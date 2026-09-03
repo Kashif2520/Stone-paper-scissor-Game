@@ -71,5 +71,9 @@ The main idea I learned was how a **matrix can be used to simplify game-result l
 **Sayyed Kashif**
 CSE (AI/ML) Student | Python Learner
 
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [Sayyed Kashif](www.linkedin.com/in/kashif-sayyed-a983a9431)
+
 ```
 ```
