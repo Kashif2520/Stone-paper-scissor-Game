@@ -73,7 +73,7 @@ CSE (AI/ML) Student | Python Learner
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [Sayyed Kashif](www.linkedin.com/in/kashif-sayyed-a983a9431)
+- 💼 LinkedIn: www.linkedin.com/in/kashif-sayyed-a983a9431
 
 ```
 ```
